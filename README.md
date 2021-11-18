@@ -20,4 +20,9 @@ Telegram чат-бот для формирования оптимального 
 Python, парсинг, pandas, yfinance, numpy, Redis, Mongo, telegram.ext, matplotlib, PyPortfolioOpt, pymongo.
 
 **Результат:**
-![image](https://user-images.githubusercontent.com/87145095/142499750-5cde45fb-d893-4b34-b08b-875d42e09d5d.png)
+![image](https://user-images.githubusercontent.com/87145095/142499911-71de83f9-f53d-44db-a3eb-88f12c0ebfd1.png)
+![image](https://user-images.githubusercontent.com/87145095/142499921-83229503-d048-44a3-bcd6-680bf87865c1.png)
+![image](https://user-images.githubusercontent.com/87145095/142499935-73f500fc-fe8d-4aa5-b143-9af8f454682c.png)
+![image](https://user-images.githubusercontent.com/87145095/142499954-9c5df598-afdd-496a-bb56-758a97ce4701.png)
+![image](https://user-images.githubusercontent.com/87145095/142499968-33935025-3e50-4996-af4d-3ab3f3489c69.png)
+
